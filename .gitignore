@@ -63,3 +63,7 @@ venv.bak/
 # OS
 .DS_Store
 Thumbs.db
+
+# Output
+assets/output/*
+!assets/output/.gitkeep
